@@ -1,4 +1,5 @@
 # for 32-bit platform
+# syntax AT&T
 .data
 .text
 .global _start
